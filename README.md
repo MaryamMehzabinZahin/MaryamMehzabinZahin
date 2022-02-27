@@ -36,11 +36,6 @@ Here are some ideas to get you started:
 <p align="right">
 <img align="center" src = "https://activity-graph.herokuapp.com/graph?username=MaryamMehzabinZahin&theme=react-dark&area=true&count_private=true" width="500"/>
 </p>
-<!--
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">Remarkable Gruop Project to be mentioned!!   
-<p align="right">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibRh26&theme=algolia&repo=Software-Engineering-Project" width="500"/>
-</p>
--->
+
 
 
